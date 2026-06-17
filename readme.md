@@ -1,4 +1,14 @@
 # Jogo da Velha com Quadrado Mágico de Lo Shu
+### Alunos
+
+Henrique Maia
+
+Ricardo Gabriel
+
+João Pedro I.
+
+Ana Luisa M.
+
 
 ## Descrição
 
